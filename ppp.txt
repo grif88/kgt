@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new file
 123
+=======
+NO NO
+>>>>>>> mod-ppp
